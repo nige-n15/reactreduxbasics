@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "Nigel Live",
+      "description": "Me doing stuff on a stream!",
+      "id": 1
+    },
+    {
+      "title": "Nigel Live",
+      "description": "Me doing stuff on a stream!",
+      "id": 2
+    },
+    {
+      "title": "Nigel Live",
+      "description": "Me doing stuff on a stream!",
+      "id": 3
+    },
+    {
+      "title": "Nigel Live",
+      "description": "Me doing stuff on a stream!",
+      "id": 4
+    }
+  ]
+}
